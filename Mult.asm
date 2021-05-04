@@ -7,7 +7,7 @@
 M=0        // R2 = 0 (since R1 >= 1)
 
 @count
-M=0        // set value of counter to 0
+M=0        // set value of count to 0
 
 (LOOP)
 	
